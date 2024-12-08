@@ -1,0 +1,5 @@
+langgraph 
+langgraph-checkpoint-sqlite 
+langchain_core 
+langchain-google-genai
+streamlit
